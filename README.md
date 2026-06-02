@@ -1,0 +1,1 @@
+# AI-Image-Resizer-Compressor-and-Upscaler-Script
