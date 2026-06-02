@@ -4,6 +4,8 @@ ResizeImage.ai is a powerful React and Node.js web application that allows users
 
 This application is ideal for startups, SaaS businesses, developers, agencies, and entrepreneurs looking to launch their own image optimization platform with complete ownership and customization flexibility.
 
+<img src="https://www.coderobotics.com/product/ai-image-resizer-compressor-and-upscaler-script">
+
 <b>ResizeImage.AI has the following key features: </b>
 
 <ul>
